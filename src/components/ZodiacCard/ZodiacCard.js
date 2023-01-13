@@ -1,6 +1,7 @@
 
-import './zodiacCard.css';
+import './ZodiacCard.css';
 import '../../data.js';
+import '../../Signs';
 
 export default function ZodiacCard({ name, dates, symbol }) {
   return (
