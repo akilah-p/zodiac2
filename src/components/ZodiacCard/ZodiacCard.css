@@ -8,6 +8,8 @@
     align-items: center;
     padding: 10px;
     color: var(--color4);
+    border: black 5px solid;
+    
   }
   
   .zodiac-card img {
